@@ -1,0 +1,9 @@
+.card{
+    height: 550px;
+    width: 500px;
+    margin: auto;
+}
+
+input[type="number"]{
+    padding: 25px;
+}
